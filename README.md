@@ -1,3 +1,5 @@
 # modulo_2
 
-Este repositorio muestra una serie de experimentos técnicos sobre eficiencia de algoritmos y el uso de herramientas modernas de ingeniería. El trabajo se enfoca en analizar de forma práctica el rendimiento computacional, comparando métodos iterativos tradicionales con opciones vectorizadas en R para mejorar el procesamiento de datos en grandes volúmenes.
+En este repositorio se reúnen distintos ejercicios prácticos vinculados con la optimización de algoritmos y el uso de herramientas actuales en ingeniería. La idea principal fue observar cómo cambia el tiempo de ejecución al comparar programas hechos con ciclos comunes frente a versiones más eficientes desarrolladas en R.
+
+Para desarrollar las actividades se trabajó con Posit Cloud y se usó R Markdown para combinar el código con la explicación de cada ejercicio.
