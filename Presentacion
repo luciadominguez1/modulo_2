@@ -1,3 +1,0 @@
-## Presentacion 
-
-Para hacer las diapositivas usamos R Markdown con el formato ioslides. Esto nos permitió juntar en un mismo archivo el código, los cálculos y los gráficos. Al usar Knit, el programa genera automáticamente la presentación en HTML, mostrando los resultados de forma directa sin tener que copiarlos manualmente.
